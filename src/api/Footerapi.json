@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "FaHome",
+    "title": "Address",
+    "details": "123 Main Street, City, Country"
+  },
+  {
+    "icon": "FaPhoneAlt",
+    "title": "Phone",
+    "details": "+1 234 567 890"
+  },
+  {
+    "icon": "MdEmail",
+    "title": "Email",
+    "details": "example@example.com"
+  }
+]
